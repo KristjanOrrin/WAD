@@ -1,2 +1,2 @@
 # WAD
-Web Application Development course
+Second course Web Application Development. 
